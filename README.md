@@ -249,7 +249,7 @@ apm.generate_performance_metrics(hours=48, interval_seconds=60)
 ```python
 # Detect more anomalies (10% contamination)
 apm.anomaly_detector = IsolationForest(contamination=0.10)
-```
+``````
 
 ### Add Custom Metrics
 ```python
