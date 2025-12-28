@@ -14,6 +14,7 @@ An advanced Application Performance Monitoring platform that tracks application 
 - **Intelligent Recommendations**: Actionable optimization suggestions with ROI estimates
 - **Apdex Score Tracking**: Industry-standard user satisfaction metric
 - **Visual Dashboards**: 9-panel comprehensive performance analysis
+- ---
 
 ## 🛠️ Technology Stack
 - **Python 3.8+**
