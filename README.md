@@ -121,7 +121,7 @@ Status:                         🟡 GOOD
     Action: Add missing indexes, implement query caching, consider connection pooling
     Impact: 50-70% query time reduction
 
-================================================================================
+=================================================================================
 
 📊 Creating performance visualizations...
 ✓ Visualization saved as 'apm_dashboard.png'
