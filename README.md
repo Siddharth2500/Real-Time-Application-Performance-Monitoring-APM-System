@@ -15,7 +15,7 @@ An advanced Application Performance Monitoring platform that tracks application 
 - **Apdex Score Tracking**: Industry-standard user satisfaction metric
 - **Visual Dashboards**: 9-panel comprehensive performance analysis
 -----
-
+---
 ## 🛠️ Technology Stack
 - **Python 3.8+**
 - **Machine Learning**: Isolation Forest (sklearn) for anomaly detection
