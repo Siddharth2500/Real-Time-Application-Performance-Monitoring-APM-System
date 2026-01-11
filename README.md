@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 An advanced Application Performance Monitoring platform that tracks application metrics, analyzes transaction traces, detects performance bottlenecks, and provides intelligent optimization recommendations using machine learning-based anomaly detection.
-----
+---
 <img width="1790" height="1190" alt="image" src="https://github.com/user-attachments/assets/34ae5b0e-b886-442d-9136-868e0a996b0f" />
 ----
 ## 🎯 Key Features
