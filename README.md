@@ -22,7 +22,7 @@ An advanced Application Performance Monitoring platform that tracks application 
 - **Metrics**: Response time, throughput, Apdex, resource utilization
 - **Data Analysis**: pandas, numpy
 - **Visualization**: matplotlib, seaborn
----
+----
 ## 📦 Installation
 ```python
 # Google Colab - all libraries pre-installed
