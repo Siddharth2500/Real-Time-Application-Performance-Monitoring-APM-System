@@ -71,7 +71,7 @@ Average Throughput:             12.45 req/sec
 Average Apdex Score:            0.847
 
 💻 RESOURCE UTILIZATION
---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
 Average CPU Usage:              58.32%
 Peak CPU Usage:                 89.45%
 Average Memory Usage:           62.18%
