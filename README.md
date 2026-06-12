@@ -175,7 +175,7 @@ Trace Components:
 - Duration (milliseconds)
 - Parent-child relationships
 - Total trace duration
-```
+``````
 
 ### 3. Anomaly Detection
 ```python
