@@ -184,7 +184,7 @@ Contamination: 5% (expected anomaly rate)
 Features: 6 performance metrics
 Classification: HIGH/MEDIUM severity
 Types: Response time, CPU, memory, DB, errors
-```
+``````
 
 ### 4. Health Score Calculation
 ```python
